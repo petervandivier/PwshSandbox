@@ -1,0 +1,4 @@
+{
+    // per-file exclusion preferred
+    // "powershell.scriptAnalysis.settingsPath": "PSScriptAnalyzerSettings.psd1"
+}
